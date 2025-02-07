@@ -1,6 +1,6 @@
-<!-- README for Marcus Hsieh - Robotics Engineer -->
+<!-- Hey! This is the raw code... Check out the preview! -->
 
-# Hi there, I'm Marcus Hsieh 🤖
+# Hi there, I'm Marcus Hsieh
 
 [![Website](https://img.shields.io/badge/Website-marcushsieh.github.io-brightgreen?logo=google-chrome)](https://marcushsieh.github.io)
 [![Email](https://img.shields.io/badge/Email-student@hsieh.org-red?logo=gmail)](mailto:student@hsieh.org)
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **Robotics Engineer** with a strong foundation in computer science, electrical, and mechanical engineering. I design innovative solutions that bridge the gap between technology and societal impact: developing autonomous systems, building embedded platforms, or crafting user-centered web applications.
+I'm a **Robotics Engineer** 🤖 with a strong foundation in computer science, electrical, and mechanical engineering. I design innovative solutions that bridge the gap between technology and societal impact: developing autonomous systems, building embedded platforms, or crafting user-centered web applications.
 
 ---
 
